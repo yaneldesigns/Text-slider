@@ -11,4 +11,8 @@ https://github.com/yaneldesigns/Text-slider/blob/63bd1c7c7eaaa913947e6aa8b11ae35
 
 https://github.com/yaneldesigns/Text-slider/blob/c244ff8cf92b157826a862895b3f9480bb21e0c4/mobile-view.png
 
+# Live view
+
+https://codepen.io/yanel-pinto/pen/abQPpVB
+
 
